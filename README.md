@@ -34,13 +34,18 @@ Seguir creciendo como desarrollador web y aportar valor a través de la tecnolog
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,jquery,dotnet,bootstrap&theme=dark" />
   <br>
-  <b>Otros:</b> WinForms, Razor, .NET (Web API, MVC)
+  <img src="https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <span>.NET (Web API, MVC)</span>
 </p>
+
 
 #### 🎨 UI Libraries
 <p align="center">
-  PrimeNG • Angular Material
+  <img src="https://img.shields.io/badge/PrimeNG-009688?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular%20Material-1976d2?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
+
 
 #### 🗄️ Bases de Datos
 <p align="center">
@@ -49,7 +54,8 @@ Seguir creciendo como desarrollador web y aportar valor a través de la tecnolog
 
 #### 🧪 Testing
 <p align="center">
-  Jest • Jasmine
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white" />
 </p>
 
 #### 🔀 Control de Versiones
@@ -64,7 +70,7 @@ Seguir creciendo como desarrollador web y aportar valor a través de la tecnolog
 
 #### 📋 Metodologías
 <p align="center">
-  Scrum
+  <img src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=azuredevops&logoColor=white" />
 </p>
 
 
