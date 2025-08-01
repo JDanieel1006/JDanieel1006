@@ -22,7 +22,6 @@
 ### 🧑‍💻 Acerca de mí
 
 Ingeniero en Sistemas con **+2 años de experiencia** desarrollando aplicaciones web con **Angular y .NET Core**.  
-Actualmente trabajo en **HARF Technologies**, colaborando en equipos multidisciplinarios para crear soluciones tecnológicas innovadoras y de calidad.  
 
 💡 **Enfoque principal**: Desarrollo web escalable, optimización de procesos y mejora de la experiencia de usuario.  
 
