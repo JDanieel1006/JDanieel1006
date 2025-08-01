@@ -1,42 +1,86 @@
-# ¡Hola! 👋 Soy Daniel Farias
-
-💻 **Desarrollador Web Full Stack**  
-Apasionado por crear soluciones con **Angular** y **C# .NET**, amante del aprendizaje continuo y la optimización de procesos.
-
----
-
-## 🚀 Tecnologías que uso
-<p align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- Encabezado Neon -->
+<h1 align="center" style="color:#00fff7;">👾 Hola, soy <span style="color:#ff00ff;">Daniel Farias</span> 👾</h1>
+<h3 align="center" style="color:#ffea00;">✅ Desarrollador Web Frontend | Angular • TypeScript • .NET Core | Apps Web Escalables</h3>
 
 ---
 
-## 📊 GitHub Stats
+<!-- GIF Cyberpunk -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF">
 </p>
 
 ---
 
-## 🌱 Actualmente aprendiendo
-- Arquitectura limpia con .NET  
-- Optimización de consultas SQL  
-- Mejores prácticas en Angular
+### 🧑‍💻 Acerca de mí
+
+Ingeniero en Sistemas con **+2 años de experiencia** desarrollando aplicaciones web con **Angular y .NET Core**.  
+Actualmente trabajo en **HARF Technologies**, colaborando en equipos multidisciplinarios para crear soluciones tecnológicas innovadoras y de calidad.  
+
+💡 **Enfoque principal**: Desarrollo web escalable, optimización de procesos y mejora de la experiencia de usuario.  
+
+🎓 **Formación**: Egresado del Instituto Tecnológico Superior de Coatzacoalcos, con sólidos fundamentos en programación, diseño de software y metodologías ágiles.
+
+🚀 **Objetivo profesional**:  
+Seguir creciendo como desarrollador web y aportar valor a través de la tecnología, contribuyendo a proyectos que generen un impacto real.
 
 ---
 
-## 📫 Cómo contactarme
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO)
-[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com)
+### 🎨 Tech Stack
+
+#### 💻 Lenguajes
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,cs,html,css,sql&theme=dark" />
+</p>
+
+#### ⚙️ Frameworks & Librerías
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,bootstrap&theme=dark" />
+</p>
+
+#### 🛠️ Software & Herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman&theme=dark" />
+</p>
 
 ---
 
-⭐️ *Si te interesa colaborar en proyectos de Angular + .NET, ¡contáctame!*  
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JDanieel1006&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JDanieel1006&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🏆 Lenguajes más usados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDanieel1006&layout=compact&theme=chartreuse-dark" />
+</p>
+
+---
+
+### 🌐 Conecta conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-farias-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jdanieel70@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+</body>
+</html>
