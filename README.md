@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
     <!-- Encabezado Neon -->
 <h1 align="center" style="color:#00fff7;">👾 Hola, soy <span style="color:#ff00ff;">Daniel Farias</span> 👾</h1>
 <h3 align="center" style="color:#ffea00;">✅ Desarrollador Web Frontend | Angular • TypeScript • .NET Core | Apps Web Escalables</h3>
@@ -22,6 +14,7 @@
 ### 🧑‍💻 Acerca de mí
 
 Ingeniero en Sistemas con **+2 años de experiencia** desarrollando aplicaciones web con **Angular y .NET Core**.  
+Actualmente trabajo en **HARF Technologies**, colaborando en equipos multidisciplinarios para crear soluciones tecnológicas innovadoras y de calidad.  
 
 💡 **Enfoque principal**: Desarrollo web escalable, optimización de procesos y mejora de la experiencia de usuario.  
 
@@ -79,7 +72,3 @@ Seguir creciendo como desarrollador web y aportar valor a través de la tecnolog
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-
-</body>
-</html>
