@@ -36,7 +36,6 @@ Seguir creciendo como desarrollador web y aportar valor a través de la tecnolog
   <br>
   <img src="https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Razor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <span>.NET (Web API, MVC)</span>
 </p>
 
 
