@@ -27,18 +27,46 @@ Seguir creciendo como desarrollador web y aportar valor a través de la tecnolog
 
 #### 💻 Lenguajes
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,cs,html,css,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs&theme=dark" />
 </p>
 
-#### ⚙️ Frameworks & Librerías
+#### ⚙️ Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,dotnet,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=angular,jquery,dotnet,bootstrap&theme=dark" />
+  <br>
+  <b>Otros:</b> WinForms, Razor, .NET (Web API, MVC)
 </p>
 
-#### 🛠️ Software & Herramientas
+#### 🎨 UI Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman&theme=dark" />
+  PrimeNG • Angular Material
 </p>
+
+#### 🗄️ Bases de Datos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlserver,mysql&theme=dark" />
+</p>
+
+#### 🧪 Testing
+<p align="center">
+  Jest • Jasmine
+</p>
+
+#### 🔀 Control de Versiones
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+</p>
+
+#### 🛠️ Herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman&theme=dark" />
+</p>
+
+#### 📋 Metodologías
+<p align="center">
+  Scrum
+</p>
+
 
 ---
 
