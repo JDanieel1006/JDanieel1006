@@ -1,10 +1,9 @@
-    <!-- Encabezado Neon -->
+
 <h1 align="center" style="color:#00fff7;">👾 Hola, soy <span style="color:#ff00ff;">Daniel Farias</span> 👾</h1>
 <h3 align="center" style="color:#ffea00;">✅ Desarrollador Web Frontend | Angular • TypeScript • .NET Core | Apps Web Escalables</h3>
 
 ---
 
-<!-- GIF Cyberpunk -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF">
 </p>
