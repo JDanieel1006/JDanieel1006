@@ -45,11 +45,11 @@ Seguir creciendo como desarrollador web y aportar valor a través de la tecnolog
   <img src="https://img.shields.io/badge/Angular%20Material-1976d2?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 
-
 #### 🗄️ Bases de Datos
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sqlserver,mysql&theme=dark" />
 </p>
+
 
 #### 🧪 Testing
 <p align="center">
